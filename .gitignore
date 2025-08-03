@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+
+# Dependency folders
+frontend/springcurd/node_modules
+backend/fullstackCurd/target
+
+# Env
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
